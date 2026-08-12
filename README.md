@@ -10,11 +10,11 @@ And got overall increased models accuracy later.
 ## About The Project
   1. [Data Cleaning](Notebooks/Data_cleaning.ipynb)
      
-  2. [Exploratory Data Visualization]() : Visualized the atomic features of the metal alloys
+  2. [Exploratory Data Visualization](Notebooks/EDA.ipynb) : Visualized the atomic features of the metal alloys
   
-  3. [Data Preprocessing]() : Preprocessed the data before feeding to the models
+  3. [Data Preprocessing and Model Comparisons](Notebooks/Models_comparison.ipynb) : Preprocessed the data before feeding to the models and Compared Multiple Classification models to predict the states of the alloys
   
-  4. [Model Comparisons]() : Compared Multiple Classification models to predict the states of the alloys
+  
 
 ## Model Comparison And Results
 <table>
