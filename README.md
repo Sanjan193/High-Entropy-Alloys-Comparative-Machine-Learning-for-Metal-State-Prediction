@@ -16,14 +16,14 @@ And got overall increased models accuracy later.
 ## Model Comparison And Results
 <table>
   <tr>
-    <th colspan="2">Models Accuracy</th>
+    <th colspan="2">Models Accuracy Before And After Applying PCA</th>
   </tr>
   <tr>
     <td>
-      <img src="Plots/Model_Comparisons/Screenshot 2026-08-12 204901.png" width="300">
+      <img src="Plots/Model_Comparisons/Screenshot 2026-08-12 204901.png" width="500">
     </td>
     <td>
-      <img src="Results/Plots/Wav2Vec2/Wav2vec2_model_final_accuracy_phase_1.png" width="300">
+      <img src="Plots/Model_Comparisons/Screenshot 2026-08-12 204927.png" width="500">
     </td>
   </tr>
 
