@@ -1,4 +1,4 @@
-# High-Entropy-Alloys-Comparative-Machine-Learning-for-Metal-State-Prediction For Metallurgical Sciences
+# High Entropy Alloys Comparative Machine Learning For Metal State Prediction For Metallurgical Sciences
 
 ## Overview
 
@@ -8,10 +8,10 @@ The initial dataset contains collection of 1,361 High Entropy Alloy records cont
 To Explore about the Dataset and full article about the research [Click Here](https://www.sciencedirect.com/science/article/pii/S2352340921006302?via%3Dihub)
 And got overall increased models accuracy later.
 ## About The Project
-    1. [Data Cleaning](Notebooks/Data_cleaning.ipynb)
-    2.Exploratory Data Visualization : Visualized the atomic features of the metal alloys
-    3.Data Preprocessing : Preprocessed the data before feeding to the models
-    4.Model Comparisons : Compared Multiple Classification models to predict the states of the alloys
+  1. [Data Cleaning](Notebooks/Data_cleaning.ipynb)
+  2.Exploratory Data Visualization : Visualized the atomic features of the metal alloys
+  3.Data Preprocessing : Preprocessed the data before feeding to the models
+  4.Model Comparisons : Compared Multiple Classification models to predict the states of the alloys
 
 ## Model Comparison And Results
 <table>
