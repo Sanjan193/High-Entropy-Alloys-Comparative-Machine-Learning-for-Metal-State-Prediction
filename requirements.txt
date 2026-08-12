@@ -1,1 +1,7 @@
+sklearn
+layzpredict
+matplotlib
+seaborn
+numpy
+pandas 
 
