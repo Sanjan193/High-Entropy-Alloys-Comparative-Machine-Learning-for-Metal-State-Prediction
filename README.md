@@ -1,5 +1,4 @@
-# High Entropy Alloys Comparative Machine Learning For Metal State Prediction For Metallurgical Sciences
-
+# High Entropy Metal Alloys State Prediction For Metallurgical And Material Sciences
 ## Overview
 
 The High Entropy Alloys(HEA) data available in the literature provides an opportunity to use Machine Learning (ML) algorithms for identifying the composition space or predicting the phase formation for a particular composition. ML is used in many fields of material science like energy applications.
